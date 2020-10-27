@@ -17,7 +17,7 @@
   }
   
   .theme.col-1 {
-    background-color: #927bc1;
+    background-color: $col1-info;
   }
   
   .theme.col-2 {
@@ -49,7 +49,7 @@
   }
   
   .theme.col-9 {
-    background-color: #e4757a;
+    background-color: $col9-error;
   }
   
   .theme.col-10 {
@@ -57,7 +57,7 @@
   }
   
   .theme.col-11 {
-    background-color: #51ddfc;
+    background-color: $links-default;
   }
   
   .theme.col-12 {

@@ -1,4 +1,4 @@
-@media (min-width: 768px) {
+@media (min-width: $query-breakpoint) {
 
     .container {
       max-width: 1400px;

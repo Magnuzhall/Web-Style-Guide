@@ -9,15 +9,15 @@
   }
   
   .default {
-    background-color: #51ddfc;
+    background-color: $links-default;
   }
   
   .error {
-    background-color: #e4757a;
+    background-color: $col9-error;
   }
   
   .info {
-    background-color: #927bc1;
+    background-color: $col1-info;
   }
   
   .success {
